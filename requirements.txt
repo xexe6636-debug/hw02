@@ -1,0 +1,5 @@
+# 核心依赖（必须）
+openai>=1.30.0        # OpenAI SDK，兼容 DeepSeek / 火山引擎 ARK
+
+# 可选：美化终端输出（rich）
+rich>=13.0.0
